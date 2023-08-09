@@ -1,10 +1,10 @@
-# C-Program
+## ⭕ C-Program
 Code of C-Programming Languages
 
-## Documentation
+## 📋 Documentation
 
 [Documentation](https://github.com/Mo-Ditha/C-Program/tree/main/Exercise)
 
-## Author
+## ✍ Author
 
 [Mo-Ditha](https://github.com/Mo-Ditha)
