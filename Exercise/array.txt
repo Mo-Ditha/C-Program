@@ -9,12 +9,14 @@ int c = 0;
 //Input Values
 for(c=0;c<4;c++)
 {
+//count
 cout << "Enter - " ;
 cin>>arr[c];
 }
 //Processing values to calculate the average
 for(c=0;c<4;c++)
 {
+//total
 tot = tot + arr[c];
 }
 avg = tot / 4;
